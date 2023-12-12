@@ -33,28 +33,28 @@ const imageAltText1 = "a light background";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ArtRise | WebApp",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    "Website to provide prospective artists with a platform by offering them the ability to post their work, which will be judged by the critics before going on display in public.",
+    url: "https://github.com/pankti13/ArtRise",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather Made Easy | WebApp",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    "Provides users with real-time weather updates and a 5-day forecast for their desired location. The data is fetched using OpenWeather API and Geolocation API.",
+    url: "https://github.com/pankti13/weather-made-easy",
   },
   {
-    title: "My Resume Site",
+    title: "SERL Website | WebApp",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    "Built the website of IIIT Allahabad's Software Engineering Research Laboratory with enhanced features as a part of Software Engineering course.",
+    url: "https://github.com/pankti13/SERL-Project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Shapify | GUI App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    "A GUI based desktop application that draws 2D shapes in user-specified parameters and shows random colours for chosen shapes as well as random shapes for chosen colours.",
+    url: "https://github.com/pankti13/Shapify",
   },
 ];
 
