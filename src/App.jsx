@@ -34,11 +34,11 @@ const siteProps = {
   microsoftLearn: "https://learn.microsoft.com/en-us/users/panktisalvi-5946/",
   sheCodes: "https://www.shecodes.io/graduates/84386-pankti-salvi",
   medium: "",
-  twitter: "",
+  twitter: "SalviPankti",
   youTube: "",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#513915";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
