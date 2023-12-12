@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Pankti Salvi",
-  title: "3rd Year Undergrad and a Lifelong Learner",
+  title: "Web Dev and ML Enthusiast",
   email: "panktisalvi1305@gmail.com",
   gitHub: "https://github.com/pankti13",
   instagram: "",
